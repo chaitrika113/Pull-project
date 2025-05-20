@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 this is new change heeheeeee
+=======
+this receipe has different versions
+like it can be made from different vegeables and it tastes different in other regions
+>>>>>>> 1710705a3bea56b13f87d4b2f83c3feeff2d60ad
 
